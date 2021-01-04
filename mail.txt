@@ -1,0 +1,13 @@
+p2p.dl.mail.ru
+pkg.dl.mail.ru
+sam-pkg-ru-dl.ext.terrhq.ru
+front-1-pkg-ru-dl.ext.terrhq.ru
+front-2-pkg-ru-dl.ext.terrhq.ru
+front-3-pkg-ru-dl.ext.terrhq.ru
+front-4-pkg-ru-dl.ext.terrhq.ru
+front-5-pkg-ru-dl.ext.terrhq.ru
+front-6-pkg-ru-dl.ext.terrhq.ru
+front-7-pkg-ru-dl.ext.terrhq.ru
+retracker.local
+tracker.openbittorrent.com
+tracker.gbitt.info
