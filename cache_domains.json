@@ -133,7 +133,7 @@
 			"domain_files": ["xboxlive.txt"]
 		}
 		{
-			"name": "mail.ru",
+			"name": "mailru",
 			"description": "CDN for mail.ru",
 			"domain_files": ["mail.txt"]
 		}
