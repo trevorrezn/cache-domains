@@ -1,4 +1,6 @@
+
 router.utorrent.com
+router.bitcomet.com
 dht.transmissionbt.com
 dht.aelitis.com
 dht.libtorrent.org
@@ -40,3 +42,4 @@ front-7-pkg-ru-dl.ext.terrhq.ru
 retracker.local
 tracker.openbittorrent.com
 tracker.gbitt.info
+aae-sgweb886-vx.asuscloud.com
