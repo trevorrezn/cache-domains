@@ -6,9 +6,11 @@ router.bitcomet.com
 dht.libtorrent.org
 static.gc.my.com
 static.dl.mail.ru
+proxy.dev-my.com
 authdl.mail.ru
 api.my.games
 store.my.games
+ruwf.my.games
 stat.gc.my.games
 p2p.dl.mail.ru
 pkg.dl.mail.ru
