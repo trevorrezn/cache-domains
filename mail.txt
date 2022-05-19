@@ -1,6 +1,7 @@
 static.gc.my.com
 games.my.com
 static.dl.mail.ru
+mc.yandex.ru
 api.my.games
 store.my.games
 1l-hit.my.games
