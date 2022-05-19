@@ -12,3 +12,8 @@ wf.cdn.gmru.net
 api.games.mail.ru
 ruwf.my.games
 games.mail.ru
+ad.mail.ru
+market.my.games
+1l-view.my.games
+aae-sgweb886-vx.asuscloud.com
+stat.gc.my.games
