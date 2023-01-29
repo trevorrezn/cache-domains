@@ -23,8 +23,3 @@ eu-rus-mow-5.gc.my.games
 eu-rus-mow-6.gc.my.games
 eu-rus-mow-7.gc.my.games
 eu-rus-sam-1.gc.my.games
-googleads.g.doubleclick.net
-static.doubleclick.net
-jnn-pa.googleapis.com
-yt3.ggpht.com
-aae-sgweb886-vx.asuscloud.com
