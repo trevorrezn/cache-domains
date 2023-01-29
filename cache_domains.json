@@ -136,6 +136,11 @@
 			"name": "mailru",
 			"description": "CDN for mail.ru",
 			"domain_files": ["mail.txt"]
+		},
+		{
+			"name": "genshin",
+			"description": "CDN for genshin",
+			"domain_files": ["genshin.txt"]
 		}
 	]
 }
