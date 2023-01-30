@@ -7,5 +7,3 @@ all-seed-av-ru-msk-03.cdn.gaijin.net
 all-seed-av-ru-msk-02.cdn.gaijin.net
 client-stats.gaijin.net
 client-stats.warthunder.com
-e2c20.gcp.gvt2.com
-beacons.gvt2.com
