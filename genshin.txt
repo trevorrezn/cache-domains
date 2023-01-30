@@ -1,1 +1,8 @@
 autopatchhk.yuanshen.com
+sg-public-api-static.hoyoverse.com
+hk4e-launcher-static.hoyoverse.com
+hk4e-launcher.hoyoverse.com
+genshin.hoyoverse.com
+sdk.hoyoverse.com
+sentry-sea-api.hoyoverse.com
+log-upload-os.hoyoverse.com
