@@ -148,6 +148,11 @@
 			"domain_files": ["mail.txt"]
 		},
 		{
+			"name": "warthunder",
+			"description": "CDN for warthunder",
+			"domain_files": ["warthunder.txt"]
+		},
+		{
 			"name": "lesta",
 			"description": "CDN for lesta",
 			"domain_files": ["lesta.txt"]
