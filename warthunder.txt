@@ -5,5 +5,8 @@ all-seed-av-ru-msk-01.cdn.gaijin.net
 warthunder-amazon.cdn.gaijin.net
 all-seed-av-ru-msk-03.cdn.gaijin.net
 all-seed-av-ru-msk-02.cdn.gaijin.net
-client-stats.gaijin.net
-client-stats.warthunder.com
+launcher-bq.gaijin.net
+warthunder.ru
+aws-yup-distr-03.gaijinent.com
+aws-yup-distr-01.gaijinent.com
+aws-yup-distr-02.gaijinent.com
