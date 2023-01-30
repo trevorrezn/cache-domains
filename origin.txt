@@ -1,7 +1,7 @@
 # WARNING:  Origin has been seen downloading https client downloads on origin-a.akamaihd.net.  A solution should be in place to forward https to the origin server (eg sniproxy)
 origin-a.akamaihd.net
 lvlt.cdn.ea.com
+ssl-lvlt.cdn.ea.com
 pc.ea.com
 pc-assets.ea.com
-ssl-lvlt.cdn.ea.com
 array607.prod.do.dsp.mp.microsoft.com
