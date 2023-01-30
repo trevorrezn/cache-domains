@@ -146,6 +146,11 @@
 			"name": "mailru",
 			"description": "CDN for mail.ru",
 			"domain_files": ["mail.txt"]
+		},
+		{
+			"name": "lesta",
+			"description": "CDN for lesta",
+			"domain_files": ["lesta.txt"]
 		}
 	]
 }
