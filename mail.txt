@@ -1,4 +1,3 @@
-
 static.dl.mail.ru
 p2p.dl.mail.ru
 pkg.dl.mail.ru
@@ -11,4 +10,3 @@ eu-rus-mow-5.gc.my.games
 eu-rus-mow-6.gc.my.games
 eu-rus-mow-7.gc.my.games
 eu-rus-sam-1.gc.my.games
-
