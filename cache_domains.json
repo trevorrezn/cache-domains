@@ -143,11 +143,6 @@
 			"domain_files": ["blackdesert.txt"]
 		},
 		{
-			"name": "mailru",
-			"description": "CDN for mail.ru",
-			"domain_files": ["mail.txt"]
-		},
-		{
 			"name": "warthunder",
 			"description": "CDN for warthunder",
 			"domain_files": ["warthunder.txt"]
