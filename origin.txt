@@ -5,3 +5,4 @@ ssl-lvlt.cdn.ea.com
 pc.ea.com
 pc-assets.ea.com
 array607.prod.do.dsp.mp.microsoft.com
+cdn-patch.swtor.com
